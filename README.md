@@ -1,5 +1,14 @@
 # Franco Ortega
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,linux,cs,python,react&theme=dark)](https://skillicons.dev)
+
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/ortegafran97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/franco-ortega)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+
 ## Contents
 
 1. [Projects](#projects-newest-to-oldest)
@@ -64,6 +73,8 @@ You can explore some of my personal projects on my [GitHub repository](https://g
 
 ### Backend
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,nodejs&theme=dark)](https://skillicons.dev)
+
 - Java
 - Springboot
 - C#
@@ -74,23 +85,19 @@ You can explore some of my personal projects on my [GitHub repository](https://g
 
 ### Frontend
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux&theme=dark)](https://skillicons.dev)
 - HTML
 - CSS
 - JavaScript
 - React
-- Angular
 - Redux
 
 ### Tools
 
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,aws,linux&theme=dark)](https://skillicons.dev)
 - Git/Github
 - Linux & Linux Servers
 - AWS (S3, ECS)
 - CI/CD
 
 ---
-
-## Contact
-
-- <a href="https://www.linkedin.com/in/ortega-franco/" target="_blank">LinkedIn</a>
-- <a href="mailto:ortegafran97@gmail.com">Gmail</a>
