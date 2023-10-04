@@ -3,7 +3,7 @@
 ## Contents
 
 1. [Projects](#projects)
-2. [Applied Technologies](#applied-technologies)
+2. [Applied Technologies summary](#applied-technologies-summary)
 
 ---
 
