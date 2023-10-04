@@ -69,33 +69,47 @@ You can explore some of my personal projects on my [GitHub repository](https://g
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,nodejs,express&theme=dark)](https://skillicons.dev)
 
 - Java
 - Springboot
 - C#
-- ASP.Net
-- MVC
+- .Net
 - Python
 - Node.js
+- Express
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap&theme=dark)](https://skillicons.dev)
 
 - HTML
 - CSS
 - JavaScript
 - React
 - Redux
+- Bootstrap
+
+### Databases
+
+[![My Skills](https://skillicons.dev/icons?i=,mongodb,postgres&theme=dark)](https://skillicons.dev)
+
+- SQL
+  - Sql Server
+  - Postgres
+  - MySql
+- No-SQL
+  - MongoDB
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,aws,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,aws,linux,bash,docker&theme=dark)](https://skillicons.dev)
 
 - Git/Github
 - Linux & Linux Servers
 - AWS (S3, ECS)
 - CI/CD
+- Bash
+- Docker
 
 ---
