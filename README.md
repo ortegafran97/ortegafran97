@@ -2,7 +2,7 @@
 
 ## Contents
 
-1. [Projects](#projects)
+1. [Projects](#projects-newest-to-oldest)
 2. [Applied Technologies summary](#applied-technologies-summary)
 3. [Contact](#contact)
 
@@ -51,8 +51,6 @@ During the 8 months of this project, I worked diligently to create a robust and 
 In my first experience as a developer, I had the opportunity to work with a local startup that served several mining companies in the San Juan region. The primary objective of this project was to develop a comprehensive administrative system that streamlined various aspects of mining operations. This system enabled office workers to manage crucial tasks, including the submission of government permits, internal permissions, and the monitoring of permit validity.
 
 As a Full-Stack Developer on this project, I was responsible for crafting the entire software solution alongside my partners. This included creating the backend logic and designing the frontend user interface according to established design guidelines.
-
-
 
 ### 5. Personal & College Projects
 
