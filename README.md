@@ -8,14 +8,14 @@
 
 ### Projects I been involved
 
-1. Mining company administrative system
+1. [Mining company administrative system](#mining-company)
 2. Local E-Commerce 
 3. Worldwide television and internet provider
 4. Worldwide Bank
 5. Personal & College projects
 
 
-#### 1. Mining company Administrative System
+#### 1. Mining company Administrative System <a name="mining-company"></a>
 
 In my first experience as developer I worked in a local Startup that used to work to several Mining companies that are working in San Juan. 
 This project consisted in develop a system where the office workers charge several forms about the Permission requested to the government to work, internal permissions, and the validity of each Permission requested. 
@@ -32,7 +32,7 @@ The clients decided to move on to another project and finished the relation with
 * Work span: 8 months
 * Technologies: Node, Typescript, React, Heroku, No-SQL (MongoDB)
 
-#### 3. Television and Internet Provider (GlobalLogic - Junior)
+#### 3. Television and Internet Provider (GlobalLogic - Junior)<a name="tv-provider"></a>  
 
 After the e-commerce ended I has a span of 6 months to keep learning and developing myself, doing course and experimenting new technologies, one of those was Java Springboot.
 After finished a presencial course of Java springBoot I had the opportunity to be referred to Globallogic and get hired. My first project was in an important and global enterprise that distributes Television and Internet. 
