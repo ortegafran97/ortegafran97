@@ -1,71 +1,90 @@
-# ortegafran97
+# OrtegaFran97
 
-## Content
+## Contents
 
+1. [Projects](#projects)
+2. [Applied Technologies](#applied-technologies)
 
-## 
+---
 
+## Projects
 
-### Projects I been involved
+### 1. Mining Company Administrative System
 
-1. [Mining company administrative system](#mining-company)
-2. Local E-Commerce 
-3. Worldwide television and internet provider
-4. Worldwide Bank
-5. Personal & College projects
+**Role**: Full-Stack Developer  
+**Work Span**: 10 months  
+**Technologies**: ASP.NET, HTML & CSS, C#, MVC, Git/Github, SQL (SQL Server)
 
+In my first experience as a developer, I had the opportunity to work with a local startup that served several mining companies in the San Juan region. The primary objective of this project was to develop a comprehensive administrative system that streamlined various aspects of mining operations. This system enabled office workers to manage crucial tasks, including the submission of government permits, internal permissions, and the monitoring of permit validity.
 
-#### 1. Mining company Administrative System <a name="mining-company"></a>
+As a Full-Stack Developer on this project, I was responsible for crafting the entire software solution alongside my partners. This included creating the backend logic and designing the frontend user interface according to established design guidelines.
 
-In my first experience as developer I worked in a local Startup that used to work to several Mining companies that are working in San Juan. 
-This project consisted in develop a system where the office workers charge several forms about the Permission requested to the government to work, internal permissions, and the validity of each Permission requested. 
-In this project I performed as a Full-Stack Developer, working both in the Backend creating all the logic needed as in the Frontend, applying the design already defined.
+### 2. Local E-Commerce
 
-* Work span: 10 months
-* Technologies: ASP.NET, HTML & CSS, C#, MVC, Git/Github, SQL (SQL Server)
+**Role**: Full-Stack Developer  
+**Work Span**: 8 months  
+**Technologies**: Node.js, Typescript, React, Heroku, No-SQL (MongoDB)
 
-#### 2. Local E-Commerce
+I had the privilege of leading a small-scale e-commerce project for a group of entrepreneurs in San Juan. The primary goal of this endeavor was to develop an e-commerce platform that catered to local businesses. As the project lead, I took on a multifaceted role that included backend and frontend development, deployment, partial design work, and client interactions.
 
-This project was an opportunity to lead a small project to a group of entrepreneurs of San Juan. The main idea was to develop an E-Commerce to all the small bussiness of the city and then expand it to several provinces of Argentina. As the lead of the project I was in charge of both Backend and Frontend, the deployment, part of the design and the meetings with the clients. 
-The clients decided to move on to another project and finished the relation with the enterprise and the code was given to them.
+During the 8 months of this project, I worked diligently to create a robust and user-friendly e-commerce solution. Although the project ultimately took a different direction and the client decided to part ways, the codebase was provided to them for future use.
 
-* Work span: 8 months
-* Technologies: Node, Typescript, React, Heroku, No-SQL (MongoDB)
+### 3. Television and Internet Provider (GlobalLogic - Junior)
 
-#### 3. Television and Internet Provider (GlobalLogic - Junior)<a name="tv-provider"></a>  
+**Role**: Junior Developer  
+**Work Span**: 1 year and 6 months  
+**Technologies**: Java SpringBoot, Angular, Java Cloud, Linux Servers, Virtual Machines
 
-After the e-commerce ended I has a span of 6 months to keep learning and developing myself, doing course and experimenting new technologies, one of those was Java Springboot.
-After finished a presencial course of Java springBoot I had the opportunity to be referred to Globallogic and get hired. My first project was in an important and global enterprise that distributes Television and Internet. 
-Here I had the responsability of maintain 3 Projects, all of them were Java Microservices, 2 of them applied the MVC model and use an Angular front. 
-This projects were intercommunicated via Eureka and Config servers to distribute the properties and multiple instances of each service.  
+After completing the e-commerce project, I dedicated 6 months to further expanding my skill set. I embarked on a journey of learning and experimentation, which included a comprehensive course in Java SpringBoot. Subsequently, I had the privilege of being referred to [GlobalLogic](https://www.globallogic.com/latam/) and had the opportunity to join the one of the many teams inside the company.
 
-* Work span: 1 year and 6 months
-* Technologies: Java SpringBoot, Angular, Java Cloud, Linux Servers, Virtual Machines 
+In my role as a Junior Developer, I was responsible for maintaining three Java Microservices projects. These projects followed the MVC model and incorporated Angular on the frontend. An essential aspect of these projects was their intercommunication through Eureka and Config servers, which facilitated the distribution of properties and the management of multiple instances of each service.
 
-#### 4. Worldwide bank (Globallogic - Semisenior)
+### 4. Worldwide Bank (GlobalLogic - Semisenior)
 
-Microservices, heavy csv reading and processing, several microservices, config servers, CI/CD, pipelines, jenkins, Sonar, AWS, triggeres, SQL, Kafka
+**Role**: Semisenior Developer  
+**Work Span**: 3 months (ongoing)  
+**Technologies**: Java SpringBoot, Spring Cloud, AWS (S3, ECS), Virtual Machines (Amazon Workspaces), Jira, SQL (Postgres), Kafka
 
-Also inside Globallogic, when I were promoted to Semisenior I was moved to this new project.
-This project is the heaviest I been to the moment, exploiting all the things I learned before. 
+Upon my promotion to the position of Semisenior Developer within GlobalLogic, I transitioned to a challenging project that pushed the boundaries of my expertise. This project is the most complex I have been involved in to date, incorporating a wide array of technologies and methodologies.
 
-All the projects are interconnected and are are triggered by an event of EventBridge after a file is dropped in a bucket of AWS S3. This event starts a process where depending the file chooses a path to follow and analyze in a different ways. At the day there are 3 intercommunicated projects, 2 of them received the file and 1 is activated via kafka. 
+The project revolves around interconnected microservices that handle heavy CSV reading and processing. These microservices are orchestrated using CI/CD pipelines, Jenkins, Sonar, and are hosted on AWS infrastructure. Key components of the system include AWS S3 for file storage, AWS ECS for container management, and Kafka for event-driven communication.
 
-* Work span: 3 months (still working)
-* Technologies: Java Springboot, Spring cloud, AWS (S3, ECS), Virtual Machine (Amazon workspaces), Jira, SQL (Postgres) 
+The system is designed to process files dropped into an AWS S3 bucket, triggering a series of events. Depending on the content and type of file, the system follows specific paths for analysis and processing. As of now, there are three interconnected projects, two of which receive files, while the third is activated via Kafka.
 
-##### 5. Personal & College projects
+### 5. Personal & College Projects
 
-The last item here is for the smaller projects for college and courses where I been involved. 
-Some of them are listed in my own github profile. 
+In addition to my professional work, I have actively engaged in various personal and college projects, further enhancing my skills and knowledge. These projects include coursework from renowned platforms like Coursera and Platzi, where I have obtained certificates for completed courses.
 
-For example: 
-* Coursera courses
-* Platzi courses: [here you can see my certificates](https://platzi.com/p/franco-ortega/)
+You can explore some of my personal projects on my [GitHub repository](https://github.com/ortegafran97), which showcases a range of coding exercises, experiments, and contributions to open-source projects.
 
+---
 
-### Applied tecnologies summary
-* **Backend**: Java, Springboot, C#, ASP.Net, MVC, Python, Node
-* **Frontend**: HTML, CSS, Javascript, React, Angular, Redux
-* **Tools**: Github, Linux & Linux Servers, AWS (S3, ECS), CI/CD,
+## Applied Technologies Summary
 
+### Backend
+
+- Java
+- Springboot
+- C#
+- ASP.Net
+- MVC
+- Python
+- Node.js
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+- Redux
+
+### Tools
+
+- Git/Github
+- Linux & Linux Servers
+- AWS (S3, ECS)
+- CI/CD
+
+---
