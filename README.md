@@ -92,7 +92,7 @@ You can explore some of my personal projects on my [GitHub repository](https://g
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=,mongodb,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 - SQL
   - Sql Server
