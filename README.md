@@ -1,9 +1,10 @@
-# OrtegaFran97
+# Franco Ortega
 
 ## Contents
 
 1. [Projects](#projects)
 2. [Applied Technologies summary](#applied-technologies-summary)
+3. [Contact](#contact)
 
 ---
 
@@ -88,3 +89,8 @@ You can explore some of my personal projects on my [GitHub repository](https://g
 - CI/CD
 
 ---
+
+## Contact
+
+- <a href="https://www.linkedin.com/in/ortega-franco/" target="_blank">LinkedIn</a>
+- <a href="mailto:ortegafran97@gmail.com">Gmail</a>
