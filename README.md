@@ -61,7 +61,7 @@ As a Full-Stack Developer on this project, I was responsible for crafting the en
 
 In addition to my professional work, I have actively engaged in various personal and college projects, further enhancing my skills and knowledge. These projects include coursework from renowned platforms like Coursera and Platzi, where I have obtained certificates for completed courses.
 
-You can explore some of my personal projects on my [GitHub repository](https://github.com/ortegafran97), which showcases a range of coding exercises, experiments, and contributions to open-source projects.
+You can explore some of my personal projects on my [GitHub repository](https://github.com/ortegafran97?tab=repositories), which showcases a range of coding exercises, experiments, and contributions to open-source projects.
 
 ---
 
