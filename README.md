@@ -1,8 +1,5 @@
 # Franco Ortega
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,linux,cs,python,react&theme=dark)](https://skillicons.dev)
-
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/ortegafran97)
@@ -13,7 +10,6 @@
 
 1. [Projects](#projects-newest-to-oldest)
 2. [Applied Technologies summary](#applied-technologies-summary)
-3. [Contact](#contact)
 
 ---
 
