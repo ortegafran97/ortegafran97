@@ -11,7 +11,7 @@
 
 ### 1. Mining Company Administrative System
 
-**Role**: Full-Stack Developer  
+>**Role**: Full-Stack Developer  
 **Work Span**: 10 months  
 **Technologies**: ASP.NET, HTML & CSS, C#, MVC, Git/Github, SQL (SQL Server)
 
@@ -21,7 +21,7 @@ As a Full-Stack Developer on this project, I was responsible for crafting the en
 
 ### 2. Local E-Commerce
 
-**Role**: Full-Stack Developer  
+>**Role**: Full-Stack Developer  
 **Work Span**: 8 months  
 **Technologies**: Node.js, Typescript, React, Heroku, No-SQL (MongoDB)
 
@@ -31,9 +31,9 @@ During the 8 months of this project, I worked diligently to create a robust and 
 
 ### 3. Television and Internet Provider (GlobalLogic - Junior)
 
-**Role**: Junior Developer  
+>**Role**: Junior Developer  
 **Work Span**: 1 year and 6 months  
-**Technologies**: Java SpringBoot, Angular, Java Cloud, Linux Servers, Virtual Machines
+**Technologies**: Java SpringBoot, Microservices, Java Cloud, Linux Servers, Virtual Machines, Angular
 
 After completing the e-commerce project, I dedicated 6 months to further expanding my skill set. I embarked on a journey of learning and experimentation, which included a comprehensive course in Java SpringBoot. Subsequently, I had the privilege of being referred to [GlobalLogic](https://www.globallogic.com/latam/) and had the opportunity to join the one of the many teams inside the company.
 
@@ -41,9 +41,9 @@ In my role as a Junior Developer, I was responsible for maintaining three Java M
 
 ### 4. Worldwide Bank (GlobalLogic - Semisenior)
 
-**Role**: Semisenior Developer  
+> **Role**: Semisenior Developer  
 **Work Span**: 3 months (ongoing)  
-**Technologies**: Java SpringBoot, Spring Cloud, AWS (S3, ECS), Virtual Machines (Amazon Workspaces), Jira, SQL (Postgres), Kafka
+**Technologies**: Java SpringBoot, Microservices, Spring Cloud, AWS (S3, ECS), Virtual Machines (Amazon Workspaces), Jira, SQL (Postgres), Kafka, Sonar, Unit Testing
 
 Upon my promotion to the position of Semisenior Developer within GlobalLogic, I transitioned to a challenging project that pushed the boundaries of my expertise. This project is the most complex I have been involved in to date, incorporating a wide array of technologies and methodologies.
 
