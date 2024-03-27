@@ -1,5 +1,11 @@
 # Franco Ortega
 
+## Description
+
+Software Engineering.
+Mainly in Java, Python and im learning Golang. 
+Thats the summary, but for more details keep reading below!
+
 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/ortegafran97)
@@ -14,11 +20,10 @@
 
 - Java
 - Springboot
-- C#
-- .Net
+- C#/.Net
 - Python
-- Node.js
-- Express
+- Node.js/Express
+- Go (Still in progress...)
 
 ### Frontend
 
