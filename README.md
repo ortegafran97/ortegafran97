@@ -2,15 +2,14 @@
 
 ## Description
 
-Software Engineering.
-Mainly in Java, Python and im learning Golang. 
-Thats the summary, but for more details keep reading below!
+Backend Software Engineer. 
+
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/ortegafran97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ortega-franco)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github)](https://github.com/ortegafran97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ortega-franco)
+[![Email](https://img.shields.io/badge/gmail-Franco_ortega-blue?style=flat&logo=gmail&logoColor=white&link=mailto%3Aortegafran97%40gmail.com)](mailto:ortegafran97@email.com)
 
 ## Applied Technologies Summary
 
@@ -23,7 +22,7 @@ Thats the summary, but for more details keep reading below!
 - C#/.Net
 - Python
 - Node.js/Express
-- Go (Still in progress...)
+- Go
 
 ### Frontend
 
@@ -36,7 +35,7 @@ Thats the summary, but for more details keep reading below!
 - Redux
 - Bootstrap
 
-### Databases
+### Database
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
